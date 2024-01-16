@@ -17,4 +17,10 @@ This model has real world appliations in multiple forms, such as forecasting sto
 ## Data Cleaning
 
 The original dataset was riddled with intricacies that hindered data readability and comprehension, prompting these changes to be made:
-- 
+- Correctly assigned numerical and categorical features to separate lists
+- Outlier removal
+- Clarified values in "Item Identifier" feature
+- Regrouped separate but equivalent values in"Item Fat Content"
+- Null value treatment
+-   Approach 1:
+-   Approach 2:
