@@ -15,5 +15,6 @@ This model has real world appliations in multiple forms, such as forecasting sto
 **Dataset:** https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets/data
 
 ## Data Cleaning
+
 The original dataset was riddled with intricacies that hindered data readability and comprehension, prompting these changes to be made:
 - 
