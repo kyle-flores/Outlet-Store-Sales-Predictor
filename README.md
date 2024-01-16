@@ -7,6 +7,7 @@ This model has real world appliations in multiple forms, such as forecasting sto
 
 ## Tools Used
 **IDE:** Jupyter Notebook
+
 **Language:** Python
 **Packages:** Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Sci-Py,
 **Dataset:** https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets/data
