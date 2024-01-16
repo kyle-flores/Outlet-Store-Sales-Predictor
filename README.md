@@ -22,5 +22,5 @@ The original dataset was riddled with intricacies that hindered data readability
 - Clarified values in "Item Identifier" feature
 - Regrouped separate but equivalent values in"Item Fat Content"
 - Null value treatment
--   Approach 1:
--   Approach 2:
+  - Approach 1: Dropping rows with null values
+  - Approach 2: Filling in null values with either feature mean or mode
