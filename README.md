@@ -24,3 +24,6 @@ The original dataset was riddled with intricacies that hindered data readability
 - Null value treatment
   - Approach 1: Dropping rows with null values
   - Approach 2: Filling in null values with either feature mean or mode
+
+## Exploratory Data Analysis
+Numerous graphs displayed patterns and trends within the data
