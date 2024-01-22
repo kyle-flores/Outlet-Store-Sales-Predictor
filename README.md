@@ -26,8 +26,12 @@ The original dataset was riddled with intricacies that hindered data readability
   - Approach 2: Filling in null values with either feature mean or mode
 
 ## Exploratory Data Analysis
-Numerous graphs displayed patterns and trends within the data
-![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/28e77d30-889c-4192-86f1-ff7d49846964)
-![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/77f2e477-0ed2-4df8-a2db-27293cbcc35f)
+
+Numerous graphs were created to visualize patterns and trends within the data.
+
+![Graph 1](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/28e77d30-889c-4192-86f1-ff7d49846964)
+
+![Graph 2](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/77f2e477-0ed2-4df8-a2db-27293cbcc35f)
+
 
 
