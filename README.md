@@ -58,3 +58,9 @@ In conclusion, the choice of data manipulation methods significantly influences 
 
 ## Conclusion
 
+In this project, a model was successfully developed and refined for predicting outlet store sales. Through  data cleaning, exploratory data analysis, and model evaluation, valuable insights into the dataset were obtained.
+
+The best-performing models, Lasso, Ridge, and Linear Regression, showcased promising accuracy and Root Mean Squared Error (RMSE). Despite achieving a moderately low accuracy of approximately 53% with an RMSE of around 1040, the exploration of alternative data manipulation approaches hinted at the potential for greater performance.
+
+The real-world applications of this model are diverse, including the forecasting of store business and economic trends. Business owners could use this model to ensure that they are stocked and prepared for the upcoming business.
+
