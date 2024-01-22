@@ -41,10 +41,20 @@ Several different models were used to predict the outlet sales due to the charac
 
 ## Model Performance
 
-Performance of the models were evaluated based on accuracy and on RMSE (Root Mean Squared Error). RMSE was chosen as the performance metric because of it's interpretability as well as being a commonly used metric.
+To assess the performance of various models in predicting outlet sales, we utilized metrics such as accuracy and Root Mean Squared Error (RMSE). RMSE was chosen due to its interpretability and common usage as a performance metric.
 
-![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/5f725233-f44f-4102-a88e-e29ce4979742)
+![Model Performance](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/5f725233-f44f-4102-a88e-e29ce4979742)
 
-The best performing models were the Lasso, Ridge, and Linear Regression models. They had the lowest overall RMSEs. Gradient Boost Regressor had a lower RMSE for Approach 2, however, the accuracies between the training and test sets varied, meaning that it was likely overfitting and adapted too well to the training set, preventing it from achieving a similar accuracy in predicting the test set.
+### Best Performing Models
 
-The best model performance was about 53% accuracy and a RMSE of 1040. However, different approaches at manipulating the data resulted in higher model performances, meaning that other approaches could be experimented on to reach upwards of 90% accuracy and smaller RMSEs.
+The Lasso, Ridge, and Linear Regression models emerged as the top performers, exhibiting the lowest overall RMSEs. While the Gradient Boost Regressor displayed a lower RMSE for Approach 2, discrepancies in accuracies between the training and test sets suggested potential overfitting. This model appeared to adapt too well to the training set, hindering its ability to generalize to the test set.
+
+### Insights and Implications
+
+The best-performing models achieved approximately 53% accuracy with an RMSE of 1040. However, alternative data manipulation approaches resulted in higher model performances, hinting at the potential for further experimentation.
+
+In conclusion, the choice of data manipulation methods significantly influences model outcomes. The current best model offers valuable insights, but continuous experimentation with different approaches may lead to even more accurate predictions and smaller errors in forecasting outlet store sales.
+ 
+
+## Conclusion
+
