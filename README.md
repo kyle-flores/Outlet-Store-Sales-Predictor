@@ -28,5 +28,6 @@ The original dataset was riddled with intricacies that hindered data readability
 ## Exploratory Data Analysis
 Numerous graphs displayed patterns and trends within the data
 ![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/28e77d30-889c-4192-86f1-ff7d49846964)
-![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/b9906c0a-a5a5-4962-a34c-aeb8702aef70)
+![image](https://github.com/kyle-flores/Outlet-Store-Sales-Predictor/assets/153465652/77f2e477-0ed2-4df8-a2db-27293cbcc35f)
+
 
